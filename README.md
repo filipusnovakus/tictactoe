@@ -1,2 +1,2 @@
 # tictactoe
-pomoci coordinates
+pomoci coordinates  :shipit:
